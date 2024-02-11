@@ -1,12 +1,12 @@
 {
-    "name": "nextpost-tech/net-mqtt-client-react",
+    "name": "mjcodebase/net-mqtt-client-react",
     "description": "Asynchronous MQTT client built on React",
     "keywords": [
         "net",
         "mqtt",
         "client"
     ],
-    "homepage": "https://github.com/nextpost-tech/net-mqtt-client-react",
+    "homepage": "https://github.com/mjcodebase/net-mqtt-client-react",
     "license": "MIT",
     "authors": [
         {
@@ -16,14 +16,14 @@
             "role": "Developer"
         },
         {
-            "name": "Nextpost.tech",
-            "homepage": "https://nextpost.tech",
+            "name": "Michael Johnson",
+            "homepage": "https://t.me/mjohnsoncode",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^5.6|^7.0|^8.0",
-        "nextpost-tech/net-mqtt": "^1.0",
+        "mjcodebase/net-mqtt": "^1.0",
         "react/promise": "^2.7",
         "react/socket": "^1.3"
     },
